@@ -12,7 +12,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Graduate CS student at **UT Dallas**
+- 🎓 Graduate student from **UT Dallas**
 - 🤖 Working on **Imitation Learning** for robotic arms (SO-101)
 - 🛠️ Love building systems-level projects in **C** and **Java**
 - 📊 Exploring **Big Data**, **ML**, and **AI**
