@@ -24,7 +24,7 @@
 
 ### About Me
 
-MS Computer Science (Data Science Track) student at UT Dallas, graduating May 2026. Previously a Software Engineer at Datanimbus Technologies (Appveen) in Bangalore, where I built data validation frameworks, distributed microservice systems, and AI/ML prototypes. I work across the full stack — from low-level concurrent systems in C to real-time streaming pipelines to LLM-powered applications.
+MS Computer Science (Data Science Track) graduate of UT Dallas (May 2026). Previously a Software Engineer at Datanimbus Technologies (Appveen) in Bangalore, where I built data validation frameworks, distributed microservice systems, and AI/ML prototypes. I work across the full stack — from low-level concurrent systems in C to real-time streaming pipelines to LLM-powered applications.
 
 Certified Databricks Data Engineer Professional. IIT Madras PG in Data Science & ML.
 
