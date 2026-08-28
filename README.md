@@ -37,7 +37,7 @@ My professional experience includes building data validation frameworks, working
 
 ### Experience
 
-**Software Engineer — Datanimbus Technologies (Appveen)** · Bangalore, India · Jul 2021 – Jan 2024
+**Software Engineer - Datanimbus Technologies (Appveen)** · Bangalore, India · Jul 2021 – Jan 2024
 
 Built automated data validation frameworks for enterprise data products using JavaScript, Node.js, REST APIs, and MongoDB. Worked across distributed microservices to debug service-level failures and improve data integrity across ingestion and processing workflows.
 
