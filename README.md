@@ -9,7 +9,7 @@
 
 MS Computer Science (Data Science) graduate from **UT Dallas (May 2026)** with 2.5+ years of software engineering experience at **Datanimbus Technologies (Appveen)** in Bangalore.
 
-I build **data-intensive, ML, and AI systems** across the stack — from concurrent systems and distributed applications to real-time streaming pipelines, computer vision models, and LLM-powered applications.
+I build **data-intensive, ML, and AI systems** across the stack - from concurrent systems and distributed applications to real-time streaming pipelines, computer vision models, and LLM-powered applications.
 
 My professional experience includes building data validation frameworks, working with distributed microservices, developing AI/ML prototypes, and delivering technical solutions for enterprise customers.
 
